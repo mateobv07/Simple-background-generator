@@ -1,0 +1,19 @@
+{
+  "name": "simple-background-generator",
+  "version": "1.0.0",
+  "description": "Simple color gradient background generator using pure html/css/javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateobv07/Simple-background-generator.git"
+  },
+  "author": "Mateo Bernasconi Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateobv07/Simple-background-generator/issues"
+  },
+  "homepage": "https://github.com/mateobv07/Simple-background-generator#readme"
+}
